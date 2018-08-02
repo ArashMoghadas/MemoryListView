@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemoryListView</string>
+
+    <string name="memo1">آنکارا</string>
+    <string name="memo2">آنکارا</string>
+    <string name="memo3">آنکارا</string>
+    <string name="memo4">آنکارا</string>
+    <string name="memo5">حرم مطهر</string>
+    <string name="memo6">حرم مطهر</string>
+    <string name="memo7">حرم مطهر</string>
+    <string name="memo8">حرم مطهر</string>
+</resources>
